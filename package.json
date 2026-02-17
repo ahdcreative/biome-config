@@ -1,0 +1,22 @@
+{
+    "name": "@ahdcreative/biome-config",
+    "version": "1.0.0",
+    "description": "Shared Biome configuration for AHD Creative projects.",
+    "author": {
+        "name": "AHDCreative",
+        "url": "https://ahd-creative.agency"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ahdcreative/biome-config.git"
+    },
+    "type": "module",
+    "main": "biome.json",
+    "files": [
+        "biome.json"
+    ],
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    }
+}
